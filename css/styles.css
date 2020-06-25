@@ -1,20 +1,23 @@
 body {
-  background-color: #00bcd4;
+    margin: 0
 }
 
 h1 {
-	color: #ff5722;
+    margin-top: 0
 }
 
-h3 {
-	color: #dd2c00;
+.top-container {
+    background-color: #f4f4f4;
 }
 
-hr {
-  background-color: #00bcd4 ;
-  border-color: #b2ebf2;
-  border-style: none;
-  border-top-style: dotted;
-  border-width: 4px;
-  width: 100%;
+.middle-container {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-container {
+    background-color: red;
+    height: 200px;
+    width: 200px;
 }
